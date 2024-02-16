@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://data.whicdn.com/images/255672977/original.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abimmxd&label=Profile%20views&color=0e75b6&style=flat" alt="abimmxd" /> </p>
 
-- 🌱 I’m currently trying to learn **C,C++ and C#**
+
 
 - 📫 My Discord **arra001**
 
