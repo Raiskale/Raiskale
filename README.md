@@ -1,5 +1,5 @@
 ![logo](https://github.com/abimmxd/abimmxd/blob/main/homeSection2.c2f106d8.gif)
-<h1 align="center">Hello 👋, I'm arra001</h1>
+<h1 align="center">Hello 👋, I'm Niilo</h1>
 
 
 <img align="right" alt="coding" width="400" src="https://data.whicdn.com/images/255672977/original.gif">
@@ -7,7 +7,7 @@
 
 
 
-- 📫 My Discord **arra001**
+
 
 
 
